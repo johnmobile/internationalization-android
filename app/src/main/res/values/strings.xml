@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Internationalization Android</string>
+    <string name="text_name">Name</string>
+    <string name="text_date">Birthdate</string>
+    <string name="text_gender">Gender</string>
+    <string name="text_male">Male</string>
+    <string name="text_female">Female</string>
+    <string name="text_register">Register</string>
+</resources>
